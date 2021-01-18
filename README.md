@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a project called JobList (job search using an API), which takes data from the API and uses Vue.js.
+🔭 I'm currently working on a project called Create a Joke, which uses Angular.
 
 🌱 I’m currently learning Vue.js. 
 
