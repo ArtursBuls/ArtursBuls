@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a project called Create a Joke, which uses Angular.
+🔭 I'm currently working on a project called Blog which uses Node.js.
 
-🌱 I’m currently learning Vue.js. 
+🌱 I’m currently learning Node.js. 
 
 📫 How to reach me: https://www.linkedin.com/in/artursbuls/
 
