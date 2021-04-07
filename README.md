@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a project called Blog which uses Node.js.
+🔭 I'm currently on the way to get a real jOB!
 
-🌱 I’m currently learning Node.js. 
+🌱 I’m currently learning Angular
 
 📫 How to reach me: https://www.linkedin.com/in/artursbuls/
 
