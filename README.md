@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🔭 I'm currently on the way to get a real jOB!
+🔭 I'm currently on the way to get a JOB!
 
-🌱 I’m currently learning Angular
+🌱 I’m currently improving Angular skills
 
 📫 How to reach me: https://www.linkedin.com/in/artursbuls/
 
-⚡ Fun fact: I am fifty years old man who decided to become a developer..))) 
+⚡ Fun fact: I am fifty-three years old junior developer..))) 
 
-Thats all, so far...:-)
+That's all, so far...:-)
