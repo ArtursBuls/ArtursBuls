@@ -2,7 +2,7 @@
 
 🔭 I'm currently on the way to get a JOB!
 
-🌱 I’m currently improving Angular skills
+🌱 I’m currently revising React
 
 📫 How to reach me: https://www.linkedin.com/in/artursbuls/
 
